@@ -1,0 +1,1 @@
+this apple project in react in best way look at the project custom folder structure and another file 
